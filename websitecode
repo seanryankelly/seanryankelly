@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <header>
+    <title>Sean Kelly</title>
+  </header>
+  <body>
+    <div>
+      <h1>Sean Kelly</h1>
+        <h3>Current</h3>
+          Services at <a href ="https://www.appfolio.com/">AppFolio</a>
+        <h3>Education</h3>
+          <a href="https://www.ucsb.edu/">UCSB</a>, B.A.
+        <h3>Online</h3>
+          <a href="https://www.linkedin.com/in/sean-kelly-41763783?trk=pub-pbmap">LinkedIn</a>
+          <br>
+          <a href="https://github.com/seanryankelly">Github</a>
+    </div>
+  </body>
+</html>
