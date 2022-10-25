@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-  <header>
+  <head>
     <title>Sean Kelly</title>
-  </header>
+  </head>
   <body>
-    <div>
+    <div class="main" style="padding-left:10px;">
       <h1>Sean Kelly</h1>
         <h3>Current</h3>
           Services at <a href ="https://www.appfolio.com/">AppFolio</a>
         <h3>Education</h3>
           <a href="https://www.ucsb.edu/">UCSB</a>, B.A.
         <h3>Online</h3>
-          <a href="https://www.linkedin.com/in/sean-kelly-41763783?trk=pub-pbmap">LinkedIn</a>
-          <br>
           <a href="https://github.com/seanryankelly">Github</a>
+          <br>
+          <a href="https://www.linkedin.com/in/sean-kelly-41763783?trk=pub-pbmap">LinkedIn</a>
     </div>
   </body>
 </html>
